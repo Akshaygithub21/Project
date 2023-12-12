@@ -1,0 +1,153 @@
+.EnrollmentForm{
+    top: 50px;
+left: 154px;
+width: 1000px;
+height: 2100px;
+
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 13px;
+opacity: 1;
+backdrop-filter: blur(25px);
+-webkit-backdrop-filter: blur(25px);
+opacity: 1;
+}
+
+.d-flex flex-column mb-3{
+  text-align: left;
+font: normal normal bold 18px/29px Noteworthy;
+letter-spacing: 0.27px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.PersonalForm
+{
+  top: 20px;
+  left: 170p;
+  width: 1000px;
+  height: 450px;
+  
+  /* UI Properties */
+  background: #ECF7F5 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.accordion {
+    width: 100%;
+    height: 40px;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+    background: #FFE3CB 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+  }
+
+  .accordion:after {
+    content: '\02C7'; /* Unicode character for "down" sign (+) */
+    font-size: 36px;
+    color: #B5091B;
+    
+    float: right;
+    margin-left: 15px;
+  }
+  
+  .active:after {
+    content: "\02C6"; /* Unicode character for "minus" sign (-) */
+    font-size: 36px;
+    color: #B5091B;
+  }
+
+
+  .panel {
+    padding: 0 10px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+    background: #ECF7F5 0% 0% no-repeat padding-box;
+    border-radius: 13px;
+  opacity: 1
+  }
+/*
+.col-sm-4 row-fluid{
+    display: flex;
+
+    justify-content: space-between;
+    background-color: #ECF7F5;
+    padding:4px;
+}
+*/
+
+
+.row-fluid1{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ECF7F5;
+}
+
+
+.HoroscopeDetails{
+   
+top: 50px;
+left: 170p;
+width: 1000px;
+height: 180px;
+border-radius: 13px;
+border-radius: 13px;
+background: #ECF7F5 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.row-fluid1{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ECF7F5;
+    padding:4px;
+}
+
+.EDUCATIONAlDETAILS{
+  top: 50px;
+left: 170p;
+width: 1000px;
+height: 240px;
+border-radius: 5px;
+/* UI Properties */
+background: #ECF7F5 0% 0% no-repeat padding-box;
+border-radius: 13px;
+opacity: 1;
+}
+
+.FAMILY{
+ /* Layout Properties */
+top: 1255px;
+left: 171px;
+width: 1000px;
+height: 647px;
+/* UI Properties */
+background: #ECF7F5 0% 0% no-repeat padding-box;
+border-radius: 13px;
+opacity: 1;
+}
+
+.UploadPicture{
+  top: 1906px;
+left: 171px;
+width: 1000px;
+height: 329px;
+background: #ECF7F5 0% 0% no-repeat padding-box;
+border-radius: 11px;
+opacity: 1;
+}
+
+.col-sm-3 pic{
+  border: 2px dashed #3C495C;
+border-radius: 11px;
+opacity: 0.25;
+}
+
+.text-center{
+ 
+opacity: 1;
+}
